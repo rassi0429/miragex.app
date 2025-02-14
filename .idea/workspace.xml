@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e52056ee-4b98-4120-b510-2f6904273a6b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="e52056ee-4b98-4120-b510-2f6904273a6b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,12 +28,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1739461941" />
+                    <option name="branchName" value="feat/namespace" />
+                    <option name="lastUsedInstant" value="1739539226" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="develop" />
-                    <option name="lastUsedInstant" value="1739461873" />
+                    <option name="lastUsedInstant" value="1739461983" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1739461941" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="feat/panel" />
@@ -76,8 +78,9 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feat/namespace",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/neo/GitHub/concurrent-community-cache",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -198,6 +201,7 @@
       <workItem from="1739415497301" duration="51000" />
       <workItem from="1739417162456" duration="9304000" />
       <workItem from="1739429939330" duration="14825000" />
+      <workItem from="1739534032824" duration="12774000" />
     </task>
     <servers />
   </component>
